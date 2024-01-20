@@ -37,10 +37,10 @@
 35,3982270206,grey,36,adidas Superstar,64.0,0,188,False,1,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,3,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 36,3973647745,grey,38,adidas Superstar,78.0,0,143,False,0,0,0,0,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,3,0,3,0.2,0,0,,1,False,True,Paris,Francia,False,False,False,1
 37,3983317304,black,42,adidas Superstar,58.0,0,110,False,0,1,0,0,1.0,3,0.0,0,0.0,0,0.0,0,0,0,4,4,0,0,0.0,0,0,,1,False,True,Marseille,France,False,False,True,1
-38,3982485816,grey,38,adidas,90.25,1,143,False,1,1,0,0,0.0,0,1.0,1,1.0,2,0.0,0,0,0,2,6,6,0,1.0,0,0,M,1,False,True,Wattrelos,France,False,False,True,0
+38,3982485816,grey,38,adidas,90.25,1,143,False,1,1,0,0,0.0,0,1.0,1,1.0,2,0.0,0,0,0,2,6,6,0,1.0,0,0,M,1,False,True,Wattrelos,France,False,False,True,1
 39,3983179482,grey,37,adidas Superstar,55.0,0,216,False,1,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,1,0,0.0,0,0,,1,False,True,Paris,Francia,False,False,True,1
 40,3979411145,grey,38,adidas Superstar,65.0,0,143,False,0,0,0,0,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,4,2,0,0.0,0,0,,1,False,True,Angoulême,France,False,False,True,1
-41,3980664414,crystal,41,Dynam,72.5,0,129,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,1,1,2,0,0.0,0,0,,1,False,True,Lyon,France,False,False,True,0
+41,3980664414,crystal,41,Dynam,72.5,0,129,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,1,1,2,0,0.0,0,0,,1,False,True,Lyon,France,False,False,True,1
 42,3975353604,black,39,adidas,76.0,0,129,False,1,1,0,0,0.0,0,0.0,0,1.0,1,0.0,0,0,0,1,8,8,0,1.0,4,2,F,1,True,True,Tours,France,False,False,True,1
 43,3983299773,black,38,adidas Originals,79.0,0,118,False,1,1,0,0,0.0,0,0.0,0,0.25,2,0.0,0,0,0,2,12,11,4,0.8,2,0,F,1,False,True,Gragnague,France,False,True,True,1
 44,3980113195,grey,39,adidas Superstar,60.0,0,137,False,0,0,0,1,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,7,9,0,0.0,0,0,,1,False,True,Angoulême,France,False,False,True,1
@@ -48,7 +48,7 @@
 46,3974731149,grey,39,adidas Superstar,60.99,0,137,False,0,0,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,3,2,0,0.0,0,0,,1,False,True,Angoulême,France,False,False,True,1
 47,3978129084,grey,42,adidas Superstar,61.2,1,271,False,0,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,2,3,1,0,0.0,0,0,,0,False,True,Berriac,France,False,False,True,1
 48,3983167740,black,37,adidas Superstar,56.0,0,111,False,0,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,0,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
-49,3978350897,black,37,Dynam,75.0,0,111,False,1,1,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,2,2,0,0.0,0,0,,0,False,True,Alès,France,False,False,True,0
+49,3978350897,black,37,Dynam,75.0,0,111,False,1,1,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,2,2,0,0.0,0,0,,0,False,True,Alès,France,False,False,True,1
 50,3982495574,green,36,adidas Superstar,64.9,0,125,False,1,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,2,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 51,3979267637,grey,39,adidas Superstar,70.0,0,137,False,0,0,0,0,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,7,5,0,0.0,0,0,,1,False,True,Angoulême,Francia,False,False,True,1
 52,3983343175,black,39,adidas Superstar,57.0,0,129,False,0,1,0,0,1.0,3,0.0,0,0.0,0,0.0,0,0,0,4,4,0,0,0.0,0,0,,1,False,True,Paris,Francia,False,False,True,1
@@ -63,16 +63,16 @@
 61,3983342422,grey,36,adidas Superstar,60.0,0,188,False,1,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,1,0,0.0,0,0,,1,False,True,Paris,France,False,False,False,1
 62,3974342446,black,38.5,adidas,98.88,1,185,False,0,0,0,1,0.0,0,0.0,0,0.0,0,0.0,0,0,0,1,1,0,0,0.0,0,0,,0,False,True,Cholet,France,False,False,False,1
 63,3972333110,grey,40,adidas Superstar,69.9,0,231,False,0,0,0,0,1.0,3,0.0,0,0.0,0,0.0,0,0,0,4,5,1,0,0.0,0,0,,1,False,True,Angoulême,France,False,False,True,1
-64,3975877646,black,42,adidas,85.0,0,110,False,1,1,0,0,0.0,0,0.0,0,0.3333333333333333,1,0.0,0,0,0,3,13,12,2,0.98,0,0,,1,False,True,Sancé,France,False,False,False,0
+64,3975877646,black,42,adidas,85.0,0,110,False,1,1,0,0,0.0,0,0.0,0,0.3333333333333333,1,0.0,0,0,0,3,13,12,2,0.98,0,0,,1,False,True,Sancé,France,False,False,False,1
 65,3979945072,black,39,adidas,75.0,0,129,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,4,6,2,0,0.0,0,0,,1,False,True,Dainville,France,False,False,True,1
-66,3982880924,black,38,adidas,89.0,0,118,False,1,1,0,0,0.0,0,0.0,0,0.16666666666666666,1,0.0,0,0,0,1,7,7,2,1.0,1,0,F,1,False,True,Bastia,France,False,False,True,0
+66,3982880924,black,38,adidas,89.0,0,118,False,1,1,0,0,0.0,0,0.0,0,0.16666666666666666,1,0.0,0,0,0,1,7,7,2,1.0,1,0,F,1,False,True,Bastia,France,False,False,True,1
 67,3977531779,grey,38,adidas Superstar,64.0,0,143,False,0,0,0,0,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,3,0,0,0.0,0,0,,1,False,True,Paris,Frankreich,False,False,True,1
 68,3979397652,black,39,adidas Superstar,59.98,1,129,False,0,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,1,2,2,0,0.0,0,0,,1,False,True,Montreuil,France,False,False,True,1
 69,3983299018,black,36,adidas Superstar,59.0,0,111,False,0,1,0,0,1.0,3,0.0,0,0.0,0,0.0,0,0,0,4,4,1,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 70,3981702364,black,39,adidas,85.0,0,129,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,2,7,6,0,1.0,0,0,,1,False,True,Saint-Jean-de-Beauregard,France,True,False,False,1
 71,3978592851,grey,37,adidas Superstar,65.0,0,216,False,0,0,0,0,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,3,0,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 72,3982106780,pink,37,adidas,70.1,1,143,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,1,2,1,0,0.8,1,0,F,1,False,True,Crosne,France,False,False,True,1
-73,3981950771,black,39,adidas Originals,78.99,0,129,False,0,0,0,0,1.0,3,0.0,0,0.0,0,0.0,0,0,0,4,8,5,0,0.0,0,0,,1,False,True,Agoncillo,Spain,False,False,False,1
+73,3981950771,black,39,adidas Originals,78.99,0,129,False,0,0,0,0,1.0,3,0.0,0,0.0,0,0.0,0,0,0,4,8,5,0,0.0,0,0,,1,False,True,Agoncillo,España,False,False,False,1
 74,3983234085,grey,38,adidas Superstar,65.0,0,143,False,0,0,0,0,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,3,1,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 75,3983190571,grey,38,adidas Superstar,65.0,0,143,False,0,0,0,0,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,3,0,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 76,3983165514,grey,40,adidas Superstar,54.9,0,231,False,1,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,0,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
@@ -81,7 +81,7 @@
 79,3983358692,black,39,adidas Originals,79.0,0,129,False,0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,1,3,2,0,0.0,0,0,,1,False,True,Le Havre,Frankreich,False,False,False,1
 80,3982410228,crystal,38.5,adidas Originals,100.0,0,131,False,0,0,0,1,0.0,0,0.0,0,0.25,2,0.0,0,0,0,4,22,19,0,1.0,0,0,,1,False,True,Rueil-Malmaison,Francia,True,False,True,0
 81,3979267179,pink,38,adidas Originals,100.0,0,155,False,0,1,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,12,10,0,1.0,2,0,,1,False,True,Cholet,Frankreich,True,False,True,1
-82,3983299032,black,37.5,adidas Originals,86.35,1,111,False,0,0,0,0,0.125,1,0.0,0,0.9090909090909091,10,0.0,0,0,0,9,23,15,0,0.92,1,0,,1,False,True,Chaumont,France,False,False,True,0
+82,3983299032,black,37.5,adidas Originals,86.35,1,111,False,0,0,0,0,0.125,1,0.0,0,0.9090909090909091,10,0.0,0,0,0,9,23,15,0,0.92,1,0,,1,False,True,Chaumont,France,False,False,True,1
 83,3982616789,green,38,adidas Superstar,59.9,0,126,False,1,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,2,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 84,3983263286,black,41,Campus,88.7,1,110,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,1,1,0,0,0.0,0,0,F,1,False,True,Nice,France,True,False,False,1
 85,3982893409,black,37,adidas,88.0,0,111,False,1,1,0,0,0.0,0,0.0,0,0.25,2,0.125,1,0,0,2,9,8,8,1.0,0,0,,1,False,True,Pau,France,False,False,True,1
@@ -95,7 +95,7 @@
 93,3982747240,grey,37,adidas Superstar,65.0,0,216,False,0,0,0,0,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,3,5,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 94,3981918994,grey,36,adidas,102.5,0,188,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,3,6,4,4,0.8,2,0,F,1,True,True,Nancy,France,True,False,False,1
 95,3974076781,grey,41,adidas Originals,99.96,1,263,False,1,1,0,0,0.16666666666666666,1,0.3333333333333333,2,0.0,0,0.0,0,0,0,7,13,6,0,1.0,0,0,,1,False,False,,France,False,False,True,1
-96,3981016489,black,42,adidas Originals,95.0,0,110,False,0,0,0,1,0.0,0,0.0,0,0.38461538461538464,5,0.3076923076923077,4,0,0,1,20,20,0,0.98,0,0,,1,False,True,Aarsele,Belgium,True,False,True,1
+96,3981016489,black,42,adidas Originals,95.0,0,110,False,0,0,0,1,0.0,0,0.0,0,0.38461538461538464,5,0.3076923076923077,4,0,0,1,20,20,0,0.98,0,0,,1,False,True,Aarsele,Belgique,True,False,True,1
 97,3983264481,black,38,adidas Originals,79.0,0,118,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,4,5,2,0,0.6,0,0,F,1,False,False,,Frankreich,False,True,True,1
 98,3978047085,green,38,adidas Originals,86.3,1,126,False,0,1,0,0,0.0,0,0.0,0,0.3333333333333333,2,0.3333333333333333,2,0,0,2,13,13,0,1.0,0,0,,1,False,True,Sevran,France,False,False,True,1
 99,3982511900,black,38.5,adidas,102.0,0,185,False,1,1,0,0,0.0,0,0.0,0,0.5,1,0.0,0,0,0,3,7,4,0,1.0,0,1,M,1,False,True,Tournoisis,France,False,False,True,1
@@ -129,7 +129,7 @@
 127,3969977539,black,40,adidas,89.0,0,128,False,1,1,0,0,0.125,1,0.0,0,1.0,1,0.0,0,0,0,9,16,7,0,1.0,0,0,F,1,False,True,Gennevilliers,France,False,False,True,1
 128,3983017686,grey,36,adidas,101.05,1,188,False,1,1,0,0,0.09090909090909091,1,0.09090909090909091,1,0.6153846153846154,8,0.0,0,0,0,12,33,23,0,0.98,9,6,F,1,False,False,,France,True,False,True,1
 129,3982817073,crystal,38,adidas,102.0,0,130,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,1,3,2,80,1.0,6,17,,1,False,True,Rouen,France,False,False,False,1
-130,3968159315,green ,42,adidas,118.5,0,116,False,0,0,1,1,0.0,0,0.29411764705882354,5,0.25,25,0.26,26,1,1,18,697,680,356,0.96,794,3,M,1,True,True,Villeparisis,France,True,False,True,0
+130,3968159315,green,42,adidas,118.5,0,116,False,0,0,1,1,0.0,0,0.29411764705882354,5,0.25,25,0.26,26,1,1,18,697,680,356,0.96,794,3,M,1,True,True,Villeparisis,France,True,False,True,0
 131,3970950970,red,44,adidas,155.0,0,110,False,0,1,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,2,0,0,0.0,1,0,M,0,False,True,,France,True,False,True,0
 132,3972323933,grey,36,adidas Superstar,69.9,0,188,False,0,0,0,0,1.0,3,0.0,0,0.0,0,0.0,0,0,0,4,5,1,0,0.0,0,0,,1,False,True,Angoulême,France,False,False,True,1
 133,3983246102,black,38,adidas Originals,79.0,0,118,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,9,16,8,0,1.0,1,0,,1,False,False,,France,True,False,False,1
@@ -155,14 +155,14 @@
 153,3983216736,black,42,adidas Superstar,50.64,1,110,False,0,1,0,0,1.0,19,0.0,0,0.0,0,0.0,0,0,0,20,20,0,0,0.0,0,0,,1,False,True,Douai,Frankrijk,False,False,True,1
 154,3962457268,black,42,adidas,108.11,1,110,False,1,1,0,0,0.0,0,1.0,1,0.0,0,0.0,0,0,0,2,4,2,1,0.8,0,0,,1,False,True,Neuilly-sur-Seine,France,True,False,True,1
 155,3983237897,grey,40,adidas,84.0,0,231,False,1,1,0,0,0.0,0,0.0,0,0.25,2,0.0,0,0,0,6,14,8,3,0.8800000000000001,0,0,,1,False,False,,France,False,False,True,1
-156,3980650472,crystal ,41,adidas,85.0,0,129,False,0,0,0,0,0.0,0,0.3333333333333333,3,0.0,0,0.16216216216216217,6,1,0,10,40,30,1,0.72,3,9,F,1,False,False,,France,False,True,True,0
+156,3980650472,crystal,41,adidas,85.0,0,129,False,0,0,0,0,0.0,0,0.3333333333333333,3,0.0,0,0.16216216216216217,6,1,0,10,40,30,1,0.72,3,9,F,1,False,False,,France,False,True,True,0
 157,3966221300,orange,43,adidas,80.0,0,150,False,0,0,1,0,0.0,0,0.0,0,0.057692307692307696,3,0.038461538461538464,2,0,0,7,63,58,0,0.98,2,0,,1,False,True,Janzé,France,False,True,True,0
 158,3983288352,black,38.5,adidas,98.0,0,185,False,0,0,0,1,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,4,1,0,1.0,0,0,,1,False,True,Goussainville,France,True,False,False,1
 159,3983301530,black,37,adidas Superstar,59.0,0,111,False,0,1,0,0,1.0,3,0.0,0,0.0,0,0.0,0,0,0,4,4,1,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 160,3978635825,grey,37,adidas Superstar,65.0,0,216,False,0,0,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,3,1,0,0.0,0,0,,1,False,True,Angoulême,France,False,False,True,1
 161,3974447720,black,40,adidas,93.8,1,128,False,1,1,0,0,0.0,0,0.0,0,0.6,3,0.0,0,0,0,2,14,13,2,1.0,0,0,M,1,False,True,Donnery,France,False,False,True,1
 162,3973250275,crystal,38,Campus,103.0,0,130,False,1,1,0,0,0.0,0,1.0,1,0.0,0,0.0,0,0,0,2,2,0,0,0.0,0,0,F,1,False,False,,France,False,False,True,1
-163,3981391800,grey,40,adidas,102.5,0,231,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,17,27,11,0,0.92,2,0,F,0,False,True,Le Malesherbois,France,False,False,False,0
+163,3981391800,grey,40,adidas,102.5,0,231,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,17,27,11,0,0.92,2,0,F,0,False,True,Le Malesherbois,France,False,False,False,1
 164,3982332396,black,37,adidas,100.77,1,111,False,0,1,0,0,0.0,0,0.0,0,0.4782608695652174,22,0.08695652173913043,4,0,0,5,55,53,10,0.94,3,1,F,1,False,True,Annecy-le-Vieux,France,False,False,True,1
 165,3972238795,black,36,adidas,108.0,0,111,False,1,1,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,2,0,0,0.0,0,0,F,1,False,True,Dunkerque,France,False,False,True,1
 166,3982432259,black,41,adidas Originals,100.0,0,110,False,0,0,0,1,0.0,0,0.0,0,0.6666666666666666,2,0.0,0,0,0,4,14,10,0,1.0,1,3,F,1,False,True,Marseille 04,Francia,False,False,False,1
@@ -256,7 +256,7 @@
 254,3983217645,black,39,adidas Superstar,50.05,1,129,False,0,1,0,0,1.0,19,0.0,0,0.0,0,0.0,0,0,0,20,20,0,0,0.0,0,0,,1,False,True,Douai,Frankrijk,False,False,True,1
 255,3982414709,black,38,adidas Originals,100.0,0,118,False,0,0,0,1,1.0,1,0.0,0,0.45161290322580644,14,0.1935483870967742,6,0,0,2,33,31,1,0.96,1,0,F,1,False,True,Rueil-Malmaison,France,False,False,True,1
 256,3970795319,black,38,adidas Originals,98.0,0,118,False,0,0,0,1,1.0,2,0.0,0,0.0,0,1.0,6,0,0,3,18,15,0,0.98,0,0,M,1,False,True,Rueil-Malmaison,France,False,False,True,1
-257,3980912182,crystal ,38,adidas,105.0,0,130,False,1,1,0,0,0.125,1,0.25,2,0.3333333333333333,2,0.3333333333333333,2,0,0,9,17,14,4,0.98,0,0,,1,False,True,Angers,France,False,False,True,1
+257,3980912182,crystal,38,adidas,105.0,0,130,False,1,1,0,0,0.125,1,0.25,2,0.3333333333333333,2,0.3333333333333333,2,0,0,9,17,14,4,0.98,0,0,,1,False,True,Angers,France,False,False,True,1
 258,3973157390,black,36,adidas,106.25,1,111,False,1,1,0,0,0.0,0,0.0,0,0.0,0,0.1111111111111111,1,0,0,1,8,8,23,0.98,11,3,M,1,False,True,La Courneuve,France,False,False,True,1
 259,3981428964,grey,38.5,adidas,103.0,0,143,False,0,1,0,0,1.0,1,0.0,0,1.0,1,0.0,0,0,0,2,8,7,0,0.94,0,0,,1,False,True,Beauvais,France,False,False,True,1
 260,3982846306,black,39,Campus,95.5,0,129,False,0,1,0,0,0.5,1,0.0,0,0.0,0,0.043478260869565216,1,0,0,3,6,6,42,1.0,3,0,F,1,False,True,Romainville,France,False,False,True,1
@@ -314,7 +314,7 @@
 312,3982114907,black,38,adidas,102.0,0,118,False,0,0,0,1,0.3333333333333333,1,0.0,0,0.5357142857142857,15,0.17857142857142858,5,0,0,4,39,36,0,0.9,9,39,M,1,False,False,,Francia,False,False,True,0
 313,3976711088,black,39,adidas,140.0,0,129,False,0,0,1,1,0.0,0,0.16666666666666666,1,0.1,1,0.1,1,0,0,7,14,8,10,0.98,7,12,F,1,False,False,,France,False,False,True,0
 314,3977303662,black,"40,5",adidas,124.99,0,113,False,0,0,0,1,0.037037037037037035,3,0.037037037037037035,3,0.0,0,0.07,7,1,0,82,277,200,186,0.96,96,4,,1,False,True,Mâcon,France,False,False,True,0
-315,3979609208,green,39,adidas,105.0,0,136,False,0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,11,15,6,0,1.0,0,0,,1,False,True,Luxembourg,Luxemburg,False,False,True,1
+315,3979609208,green,39,adidas,105.0,0,136,False,0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,11,15,6,0,1.0,0,0,,1,False,True,Luxembourg,Luxembourg,False,False,True,1
 316,3981248222,green,37,adidas,105.0,0,125,False,1,1,0,0,0.06666666666666667,1,0.0,0,0.0,0,0.0,0,1,0,16,19,3,0,1.0,0,0,F,1,False,True,Mairieux,France,False,False,False,1
 317,3982501346,green,38,adidas Superstar,64.9,0,126,False,1,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,2,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 318,3983305405,green,39,adidas Superstar,49.9,0,136,False,0,0,0,1,1.0,18,0.0,0,0.0,0,0.0,0,0,0,19,20,1,0,0.0,0,0,,1,False,True,Saint-Denis,France,False,False,True,1
@@ -332,7 +332,7 @@
 330,3982299135,grey,40,adidas Superstar,69.9,0,231,False,0,0,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,0,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 331,3982152540,beige,39,adidas,180.0,0,125,False,0,0,1,1,0.23076923076923078,3,0.6923076923076923,9,0.15,15,0.38,38,1,1,14,109,96,39,0.96,21,7,,1,False,True,Pleine-Fougères,France,False,True,True,0
 332,3974662775,grey,39,adidas Superstar,58.99,0,137,False,0,0,0,0,1.0,2,0.0,0,0.0,0,0.0,0,0,0,3,3,1,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
-333,3982032809,black,39,adidas Originals,95.0,0,129,False,0,0,0,1,0.0,0,0.0,0,0.0,0,0.0,0,0,0,7,8,1,0,0.0,0,0,F,1,False,True,Achet,België,True,False,False,1
+333,3982032809,black,39,adidas Originals,95.0,0,129,False,0,0,0,1,0.0,0,0.0,0,0.0,0,0.0,0,0,0,7,8,1,0,0.0,0,0,F,1,False,True,Achet,Belgique,True,False,False,1
 334,3983300657,green,39,adidas Superstar,49.9,0,136,False,0,0,0,1,1.0,18,0.0,0,0.0,0,0.0,0,0,0,19,20,1,0,0.0,0,0,,1,False,True,Saint-Denis,France,False,False,True,1
 335,3978106340,black,37.5,adidas,155.0,0,111,False,0,0,1,0,0.021052631578947368,2,0.010526315789473684,1,0.03,3,0.02,2,1,0,98,394,299,5,0.98,27,3,F,1,False,True,Nancy,Francia,False,True,True,0
 336,3977745043,black,35.5,adidas,145.0,0,132,False,0,0,0,1,0.3,6,0.1,2,0.0,0,0.3333333333333333,1,0,0,21,24,5,1,0.74,6,4,,1,False,True,Brie-Comte-Robert,Francia,False,False,False,0
@@ -429,7 +429,7 @@
 427,3979922592,grey,40,adidas,101.15,1,231,False,1,1,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,3,2,3,1.0,0,0,F,1,False,True,Vidaillat,Francia,False,False,True,1
 428,3971672355,black,39,adidas Originals,94.24,1,129,True,0,0,1,0,0.0,0,0.0,0,0.0,0,0.0,0,0,0,1,4,5,6,1.0,2,0,,1,False,True,Castelnau-d'Estrétefonds,France,False,False,True,1
 429,3964424678,grey,38,adidas,145.0,0,143,False,0,0,1,0,0.2727272727272727,3,0.09090909090909091,1,0.0,0,0.25,1,0,0,12,14,2,1,0.6,0,0,,1,False,True,Vence,France,False,False,True,0
-430,3981926474,crystal ,38,adidas,102.0,0,130,False,1,1,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,2,2,11,1.0,1,3,,0,False,True,,France,False,False,False,1
+430,3981926474,crystal,38,adidas,102.0,0,130,False,1,1,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,2,2,11,1.0,1,3,,0,False,True,,France,False,False,False,1
 431,3975882918,green,38,adidas,150.0,0,126,False,0,0,1,0,0.0,0,0.0,0,0.01,1,0.0,0,1,0,148,728,583,404,0.94,322,24,F,1,True,False,,France,False,True,True,0
 432,3973470897,black,36,adidas,95.0,0,111,False,0,0,0,0,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,2,1,0,0.0,0,0,F,1,False,True,,France,False,False,True,1
 433,3979072476,grey,44,adidas,159.0,0,266,False,0,0,0,1,0.875,7,0.0,0,0.3333333333333333,20,0.05,3,0,0,9,72,64,0,1.0,6,3,M,1,False,True,Corbeil-Essonnes,France,False,False,True,0
@@ -534,7 +534,7 @@
 532,3982086811,grey,42,adidas,108.9,0,271,False,1,1,0,0,1.0,1,0.0,0,0.5,4,0.0,0,0,0,2,12,10,3,0.8,1,1,,1,False,True,Nanterre,France,False,False,True,1
 533,3978828356,grey,37.5,adidas,160.0,0,216,False,0,0,1,1,0.5555555555555556,10,0.1111111111111111,2,0.25,2,0.0,0,1,0,19,34,15,5,0.98,6,1,,1,False,True,Durmenach,France,False,False,True,0
 534,3981802652,black,40,adidas Originals,100.0,0,128,False,0,0,0,1,0.16666666666666666,1,0.0,0,0.24,6,0.2,5,0,0,7,50,44,0,0.98,3,0,,1,False,True,Rueil-Malmaison,France,False,False,True,1
-535,3961423476,black,43,adidas,150.0,0,110,False,0,0,1,1,0.0,0,0.0,0,0.058823529411764705,3,0.0196078431372549,1,0,0,21,59,38,29,1.0,12,2,M,1,False,True,Périgueux,França,True,False,True,0
+535,3961423476,black,43,adidas,150.0,0,110,False,0,0,1,1,0.0,0,0.0,0,0.058823529411764705,3,0.0196078431372549,1,0,0,21,59,38,29,1.0,12,2,M,1,False,True,Périgueux,Francia,True,False,True,0
 536,3980608130,black,43,adidas,130.0,0,110,False,0,0,1,1,0.5,1,0.0,0,0.0,0,0.0,0,0,0,3,9,6,2,1.0,0,0,M,1,False,True,Montpellier,Francia,True,False,False,0
 537,3980732137,grey,36,adidas Superstar,55.0,0,188,False,0,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,3,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 538,3971790149,grey,39,adidas,149.99,0,137,False,0,0,0,0,0.6,3,0.0,0,0.5147058823529411,35,0.04411764705882353,3,1,0,6,74,69,14,1.0,26,18,M,1,False,True,Neuilly-sur-Seine,Francia,False,True,True,0
@@ -709,7 +709,7 @@
 707,3978311421,black,38,adidas,130.0,0,118,False,0,0,1,1,0.0,0,0.0,0,0.8,4,0.0,0,0,0,1,8,7,0,1.0,1,2,,1,False,True,Levallois-Perret,France,False,True,True,0
 708,3973123462,crystal,38,adidas,130.0,0,130,False,0,0,1,1,0.0,0,0.2,1,0.05263157894736842,2,0.02631578947368421,1,1,1,6,45,40,5,0.98,4,2,M,1,False,True,Nogent-sur-Oise,France,False,True,True,0
 709,3978115358,black,43,adidas,150.0,0,110,False,0,0,1,1,0.046511627906976744,2,0.023255813953488372,1,0.0392156862745098,2,0.0,0,1,0,44,101,57,2,1.0,18,3,M,1,False,False,,France,False,True,True,0
-710,3981156152,black,39,adidas,145.0,0,129,False,0,0,0,0,0.14285714285714285,1,0.0,0,0.5,7,0.0,0,1,1,8,24,16,1,0.94,0,2,F,1,False,True,Forchies-La-Marche,Belgium,False,False,True,0
+710,3981156152,black,39,adidas,145.0,0,129,False,0,0,0,0,0.14285714285714285,1,0.0,0,0.5,7,0.0,0,1,1,8,24,16,1,0.94,0,2,F,1,False,True,Forchies-La-Marche,Belgique,False,False,True,0
 711,3982614779,green,37,adidas Superstar,59.9,0,125,False,1,1,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,2,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 712,3982294410,grey,38,adidas Superstar,69.9,0,143,False,0,0,0,0,1.0,4,0.0,0,0.0,0,0.0,0,0,0,5,5,0,0,0.0,0,0,,1,False,True,Paris,France,False,False,True,1
 713,3978115686,black,38,adidas Originals,104.0,0,118,False,0,0,0,1,1.0,1,0.0,0,0.0,0,0.0,0,0,0,2,2,0,3,1.0,1,2,M,1,True,True,Le Val-d'Ajol,France,True,False,False,1
@@ -775,7 +775,7 @@
 773,3976676924,grey,38,adidas,150.0,0,143,False,0,1,0,0,0.0,0,0.0,0,0.0,0,0.15789473684210525,3,0,0,9,26,17,1,0.92,1,1,,1,False,False,,France,False,True,True,0
 774,3977848644,purple,37,adidas,170.0,0,115,False,0,0,0,1,0.0,0,0.0,0,0.0,0,0.0,0,0,0,4,6,2,1,0.0,0,0,,0,False,False,,France,False,False,False,0
 775,3982768822,blue,44,adidas,149.0,0,115,False,0,0,0,1,0.875,7,0.0,0,0.3333333333333333,20,0.05,3,0,0,9,72,64,0,1.0,6,3,M,1,False,True,Corbeil-Essonnes,France,False,False,True,0
-776,3981295545,black,41,adidas Originals,170.0,0,110,False,0,0,0,0,0.0,0,0.0,0,0.34210526315789475,13,0.07894736842105263,3,1,0,1,24,23,28,0.94,4,1,M,1,False,False,,Italien,True,False,True,0
+776,3981295545,black,41,adidas Originals,170.0,0,110,False,0,0,0,0,0.0,0,0.0,0,0.34210526315789475,13,0.07894736842105263,3,1,0,1,24,23,28,0.94,4,1,M,1,False,False,,Italie,True,False,True,0
 777,3981690179,black,"44,5",adidas,160.0,0,117,False,0,1,0,0,0.5,3,0.0,0,0.0,0,0.0,0,0,0,7,7,1,0,0.0,1,2,,1,False,False,,Italie,False,False,False,0
 778,3974771085,black,41.5,adidas,130.0,0,185,False,0,0,1,0,0.0,0,0.1111111111111111,1,0.0,0,0.047619047619047616,2,1,0,10,40,30,38,0.9,16,73,F,1,False,True,Nice,France,False,False,True,0
 779,3981429264,black,38.5,adidas,140.0,0,185,True,0,0,1,1,0.0,0,0.0,0,0.10344827586206896,6,0.05172413793103448,3,0,0,7,62,55,6,1.0,8,8,M,1,True,True,Neuilly-sur-Seine,Frankreich,False,True,True,0
