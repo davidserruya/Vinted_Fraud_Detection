@@ -37,10 +37,10 @@ black,110,1
 grey,188,1
 grey,143,1
 black,110,1
-grey,143,0
+grey,143,1
 grey,216,1
 grey,143,1
-crystal,129,0
+crystal,129,1
 black,129,1
 black,118,1
 grey,137,1
@@ -48,7 +48,7 @@ black,110,1
 grey,137,1
 grey,271,1
 black,111,1
-black,111,0
+black,111,1
 green,125,1
 grey,137,1
 black,129,1
@@ -63,9 +63,9 @@ green,116,1
 grey,188,1
 black,185,1
 grey,231,1
-black,110,0
+black,110,1
 black,129,1
-black,118,0
+black,118,1
 grey,143,1
 black,129,1
 black,111,1
@@ -79,9 +79,9 @@ grey,231,1
 black,110,1
 grey,137,1
 black,129,1
-crystal,131,0
+crystal,131,1
 pink,155,1
-black,111,0
+black,111,1
 green,126,1
 black,110,1
 black,111,1
@@ -129,7 +129,7 @@ black,110,1
 black,128,1
 grey,188,1
 crystal,130,1
-green,116,0
+green ,116,0
 red,110,0
 grey,188,1
 black,118,1
@@ -162,7 +162,7 @@ black,111,1
 grey,216,1
 black,128,1
 crystal,130,1
-grey,231,0
+grey,231,1
 black,111,1
 black,111,1
 black,110,1
@@ -364,7 +364,7 @@ grey,216,1
 grey,137,1
 grey,216,0
 grey,188,0
-black,129,1
+black,129,0
 blue,114,0
 black,185,0
 black,118,1
@@ -384,7 +384,7 @@ grey,216,0
 grey,266,1
 blue,110,0
 grey,216,0
-grey,231,1
+grey,231,0
 black,128,1
 blue,117,1
 pink,134,0
@@ -562,7 +562,7 @@ grey,263,0
 black,110,1
 black,110,1
 black,129,0
-black,185,1
+black,185,0
 grey,216,0
 black,110,0
 grey,216,0
@@ -645,7 +645,7 @@ grey,143,0
 black,113,0
 black,129,0
 red,118,0
-grey,188,1
+grey,188,0
 black,128,0
 black,118,0
 orange,150,0
