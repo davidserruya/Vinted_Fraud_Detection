@@ -1,4 +1,4 @@
-# Vinted_ML
+# Vinted_Fraud_Detection
 
 Ce projet vise à détecter les fraudes dans les annonces de sneakers sur la plateforme Vinted en utilisant des techniques de machine learning comme l'approche supervisée ou semi-supervisée.
 
